@@ -1,0 +1,7 @@
+{
+  "name": "Zipper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
